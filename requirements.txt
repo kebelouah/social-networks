@@ -1,1 +1,4 @@
-to be completed
+matplotlib
+networkx
+numpy
+seaborn
